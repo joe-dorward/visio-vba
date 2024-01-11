@@ -6,6 +6,7 @@ This VBA code example presumes that you know enough about using and running VBA 
 This code will execute when its VISIO file opens, and draws three rectangles (as above) on a VISIO page.
 The code 'expects' to 'find' the 'Items-01.xml' (above) file in the same folder.
 The code reads the information it needs about the size and position of the rectangles from the XML file.
+
 ' ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 
 Private Sub Document_DocumentOpened(ByVal doc As IVDocument)
