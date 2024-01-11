@@ -1,5 +1,6 @@
 # Items-01.vsd
 The following VBA code example presumes that you know enough about using and running VBA to use it as-is. This code will execute when its VISIO file opens, and 'expects' to 'find' the 'Items-01.xml' (above) file in the same folder.
+
 ' ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 
 Private Sub Document_DocumentOpened(ByVal doc As IVDocument)
