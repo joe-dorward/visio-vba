@@ -1,0 +1,24 @@
+<items>
+  <item>
+    <name>Item One</name>
+    <left>1</left>
+    <bottom>1</bottom>
+    <width>2</width>
+    <height>0.5</height>
+  </item>
+  <item>
+    <name>Item Two</name>
+    <left>4</left>
+    <bottom>1</bottom>
+    <width>2</width>
+    <height>0.5</height>
+  </item>
+  <item>
+    <name>Item Three</name>
+    <left>1</left>
+    <bottom>2</bottom>
+    <width>2</width>
+    <height>0.5</height>
+  </item>
+</items>
+
