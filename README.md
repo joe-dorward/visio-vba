@@ -1,6 +1,7 @@
 # Items-01.vsd
 The following VBA code example presumes that you know enough about using and running VBA to use it as-is. This code will execute when its VISIO file opens, and 'expects' to 'find' the 'Items-01.xml' (above) file in the same folder.
 ' ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
+
 Private Sub Document_DocumentOpened(ByVal doc As IVDocument)
   
     Dim XDoc As Object
@@ -29,7 +30,9 @@ Private Sub Document_DocumentOpened(ByVal doc As IVDocument)
     
     Set XDoc = Nothing
 End Sub
+
 ' ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
+
 Sub Create_Shape(xStart As Double, yStart As Double, xEnd As Double, yEnd As Double, Name As String)
 
     Dim vsoShape As Visio.Shape
