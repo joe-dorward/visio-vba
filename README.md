@@ -1,6 +1,9 @@
 # Items-01.vsd
-The following VBA code example presumes that you know enough about using and running VBA to use it as-is. This code will execute when its VISIO file opens, and 'expects' to 'find' the 'Items-01.xml' (above) file in the same folder.
-
+This VBA code example presumes that you know enough about using and running VBA to use it as-is.
+![Items-01.jpg](Items-01.jpg)
+This code will execute when its VISIO file opens, and draws three rectangles (as above) on a VISIO page.
+The code 'expects' to 'find' the 'Items-01.xml' (above) file in the same folder.
+The code reads the information it needs about the size and position of the rectangles from the XML file.
 ' ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ---------- ----------
 
 Private Sub Document_DocumentOpened(ByVal doc As IVDocument)
