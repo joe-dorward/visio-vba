@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="t_shapes.dita">
+	<title>Shapes</title>
+	<body>
+		<p>A paragraph ...</p>
+		<simpletable>
+			<sthead>
+				<stentry>name</stentry>
+				<stentry>column</stentry>
+				<stentry>row</stentry>
+				<stentry>width</stentry>
+				<stentry>height</stentry>
+				<stentry>connects to</stentry>
+			</sthead>
+			<!-- Row 1 -->
+			<strow>
+				<stentry>Step 1:1</stentry>
+				<stentry>1</stentry>
+				<stentry>1</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>Step 2:1</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 2:1</stentry>
+				<stentry>2</stentry>
+				<stentry>1</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>Step 3:1</stentry>				
+			</strow>
+			<strow>
+				<stentry>Step 3:1</stentry>
+				<stentry>3</stentry>
+				<stentry>1</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>Step 4:1</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 4:1</stentry>
+				<stentry>4</stentry>
+				<stentry>1</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>Step 7:1</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 5:1</stentry>
+				<stentry>5</stentry>
+				<stentry>1</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 6:1</stentry>
+				<stentry>6</stentry>
+				<stentry>1</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 7:1</stentry>
+				<stentry>7</stentry>
+				<stentry>1</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>Step 4:1</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 8:1</stentry>
+				<stentry>8</stentry>
+				<stentry>1</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 2 -->
+			<strow>
+				<stentry>Step 1:2</stentry>
+				<stentry>1</stentry>
+				<stentry>2</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 2:2</stentry>
+				<stentry>2</stentry>
+				<stentry>2</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 3:2</stentry>
+				<stentry>3</stentry>
+				<stentry>2</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>Step 7:6</stentry>
+			</strow>
+			<!-- Row 3 -->
+			<strow>
+				<stentry>Step 1:3</stentry>
+				<stentry>1</stentry>
+				<stentry>3</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 4:3</stentry>
+				<stentry>4</stentry>
+				<stentry>3</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 4 -->
+			<strow>
+				<stentry>Step 1:4</stentry>
+				<stentry>1</stentry>
+				<stentry>4</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 5:4</stentry>
+				<stentry>5</stentry>
+				<stentry>4</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 5 -->
+			<strow>
+				<stentry>Step 1:5</stentry>
+				<stentry>1</stentry>
+				<stentry>5</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 6:5</stentry>
+				<stentry>6</stentry>
+				<stentry>5</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 6 -->
+			<strow>
+				<stentry>Step 1:6</stentry>
+				<stentry>1</stentry>
+				<stentry>6</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 7:6</stentry>
+				<stentry>7</stentry>
+				<stentry>6</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 7 -->
+			<strow>
+				<stentry>Step 1:7</stentry>
+				<stentry>1</stentry>
+				<stentry>7</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 8:7</stentry>
+				<stentry>8</stentry>
+				<stentry>7</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 8 -->
+			<strow>
+				<stentry>Step 1:8</stentry>
+				<stentry>1</stentry>
+				<stentry>8</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<strow>
+				<stentry>Step 7:8</stentry>
+				<stentry>7</stentry>
+				<stentry>8</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 9 -->
+			<strow>
+				<stentry>Step 1:9</stentry>
+				<stentry>1</stentry>
+				<stentry>9</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 10 -->
+			<strow>
+				<stentry>Step 1:10</stentry>
+				<stentry>1</stentry>
+				<stentry>10</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+			<!-- Row 11 -->
+			<strow>
+				<stentry>Step 1:11</stentry>
+				<stentry>1</stentry>
+				<stentry>11</stentry>
+				<stentry>30</stentry>
+				<stentry>5</stentry>
+				<stentry>none</stentry>
+			</strow>
+		</simpletable>
+	</body>
+</topic>
