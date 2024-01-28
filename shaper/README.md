@@ -30,6 +30,8 @@ This is a proof-of-concept, experimental project, to use a Visio VBA application
 * ```t_shapes.dita``` - is the (DITA XML - Topic) with a table containing the information about the shapes to be drawn
 * ```shaper_v4_01.bas``` - this is the VBA code module that will iterate over ```t_shapes.dita```, and add the shapes to an open Visio drawing
 
+## Steps
+
 **Step 01** - Download ```t_shapes.dita```
 
 **Step 02** - Download ```shaper_v4_01.bas```
