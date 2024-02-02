@@ -1,8 +1,6 @@
 # Shaper 
 This is a proof-of-concept, experimental project, to use a Visio VBA application to iterate over a DITA XML file to add shapes and connectors to a Visio drawing - see [video on YouTube](https://youtu.be/NV07-EScgoQ)
 
-![shaper_v4_(dita).png](shaper_v4_(dita).png)
-
 ## The Process
 ```mermaid
   flowchart LR
@@ -37,6 +35,9 @@ This is a proof-of-concept, experimental project, to use a Visio VBA application
 **Step 02** - Download ```shaper_v4_04.bas```
 
 **Step 03** - Import ```shaper_v4_04.bas```, and run the ```Main()``` method
+
+## DITA XML - TOPIC
+![shaper_v4_(dita).png](shaper_v4_(dita).png)
 
 ## Visio Drawing
 ![shaper_v4_(vsd).png](shaper_v4_(vsd).png)
