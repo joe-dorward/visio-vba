@@ -1,7 +1,7 @@
 # Shaper 
 This is a proof-of-concept, experimental project, to use a Visio VBA application to iterate over a DITA XML file to add shapes and connectors to a Visio drawing.
 
-![shaper_v4.01.png](shaper_v4.01.png)
+![shaper_v4_(dita).png](shaper_v4_(dita).png)
 
 ## The Process
 ```mermaid
@@ -28,12 +28,15 @@ This is a proof-of-concept, experimental project, to use a Visio VBA application
 
 ## Files
 * ```t_shapes.dita``` - is the (DITA XML - Topic) with a table containing the information about the shapes to be drawn
-* ```shaper_v4_01.bas``` - this is the VBA code module that will iterate over ```t_shapes.dita```, and add the shapes to an open Visio drawing
+* ```shaper_v4_04.bas``` - this is the VBA code module that will iterate over ```t_shapes.dita```, and add the shapes to an open Visio drawing
 
 ## Steps
 
 **Step 01** - Download ```t_shapes.dita```
 
-**Step 02** - Download ```shaper_v4_01.bas```
+**Step 02** - Download ```shaper_v4_04.bas```
 
-**Step 03** - Import ```shaper_v4_01.bas```, and run the ```Main()``` method
+**Step 03** - Import ```shaper_v4_04.bas```, and run the ```Main()``` method
+
+## Visio Drawing
+![shaper_v4_(vsd).png](shaper_v4_(vsd).png)
