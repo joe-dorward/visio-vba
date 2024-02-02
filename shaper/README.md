@@ -1,5 +1,5 @@
 # Shaper 
-This is a proof-of-concept, experimental project, to use a Visio VBA application to iterate over a DITA XML file to add shapes and connectors to a Visio drawing.
+This is a proof-of-concept, experimental project, to use a Visio VBA application to iterate over a DITA XML file to add shapes and connectors to a Visio drawing - see [video on YouTube](https://youtu.be/NV07-EScgoQ)
 
 ![shaper_v4_(dita).png](shaper_v4_(dita).png)
 
